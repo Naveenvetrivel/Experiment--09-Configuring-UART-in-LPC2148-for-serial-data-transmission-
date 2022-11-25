@@ -6,9 +6,6 @@ Roll no :212221230068
 
 Date of experiment :25/11/22
 
-
-
- Date: 
 ### Configuring UART in LPC2148 for serial data transmission 
 
 ### Aim: 
